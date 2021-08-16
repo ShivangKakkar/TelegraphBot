@@ -60,12 +60,11 @@ Support : @StarkBotsChat
 ✨ **SUPPORTED MEDIA TYPES** ✨
 
 1) Image
-2) Video
-3) Sticker
-4) Gifs or Animation
-5) Videos
-6) Video Note
-7) Document (Video/Photo/Gif)
+2) Sticker
+3) Gifs or Animation
+4) Video
+5) Video Note
+6) Document (Video/Photo/Gif)
 
 Note : Telegraph has a size limit of 5 MB.
     """

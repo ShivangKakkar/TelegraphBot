@@ -75,6 +75,21 @@ Upload one of the below supported media type to Telegra.ph
 
 > That's on you mainly...
 
+## Stats
+
+[![GitHub forks](https://img.shields.io/github/forks/StarkBotsIndustries/TelegraphBot.svg?style=social&label=Fork&maxAge=25920000)](https://github.com/StarkBotsIndustries/TelegraphBot/network/) [![GitHub stars](https://img.shields.io/github/stars/StarkBotsIndustries/TelegraphBot.svg?style=social&label=Star&maxAge=25920000)](https://github.com/StarkBotsIndustries/TelegraphBot/stargazers/) [![GitHub watchers](https://img.shields.io/github/watchers/StarkBotsIndustries/TelegraphBot.svg?style=social&label=Watch&maxAge=25920000)](https://github.com/StarkBotsIndustries/TelegraphBot/watchers/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/StarkBotsIndustries/TelegraphBot/graphs/commit-activity)
+
+## License
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+
+## Contributing
+
+[![GitHub contributors](https://img.shields.io/github/contributors/StarkBotsIndustries/TelegraphBot.svg)](https://github.com/StarkBotsIndustries/TelegraphBot/graphs/contributors/)
+
+> Contributions are heartily accepted.
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 ## Credits
