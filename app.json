@@ -1,0 +1,63 @@
+{
+  "name": "Telegraph Bot",
+  "description": "Telegram bot to upload media to Telegra.ph",
+  "logo": "https://telegra.ph/file/365d147816bf1295226b9.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "buildpacks": [{
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "repository": "https://github.com/StarkBotsIndustries/TelegraphBot",
+  "addons": [
+    {
+       "options": {
+          "version": "12"
+       },
+       "plan": "heroku-postgresql"
+    }
+  ],
+
+  "env": {
+    "ENVIRONMENT": {
+      "description": "Don't change ANYTHING.",
+      "required": true,
+      "value": "ANYTHING"
+    },
+    "API_ID": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from my.telegram.org.",
+      "required": true,
+      "value": ""
+    },
+    "BOT_TOKEN": {
+      "description": "Obtain a Telegram bot token by contacting @BotFather",
+      "required": true,
+      "value": ""
+    },
+    "MUST_JOIN": {
+      "description": "Not compulsory. Obtain your Telegram Chat's username/id",
+      "required": false,
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Obtain your Telegram ID",
+      "required": true,
+      "value": ""
+    }
+
+  }
+}
