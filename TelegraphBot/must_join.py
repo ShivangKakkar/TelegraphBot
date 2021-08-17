@@ -4,7 +4,7 @@ from pyrogram.errors import ChatAdminRequired, UserNotParticipant
 from Config import MUST_JOIN
 
 
-@Client.on_message(~filters.edited & filters.incoming, group=-1)
+@Client.on_message(~filters.edited & filters.incoming & filters.private, group=-1)
 async def must_join_channel(bot: Client, msg: Message):
     if MUST_JOIN is None:  # Not Compulsory
         return

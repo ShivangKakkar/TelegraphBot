@@ -33,6 +33,7 @@ You can alternatively also use "t" or "tg" as commands and "!" as prefix to do t
 That is,
 !t   ,   !tg   ,   !telegraph 
 /t   ,   /tg   ,   /telegraph
+[If you add in your group, your group users won't need to join our channel.]
 
 __Note__ : If the bot doesn't respond in the expected way, make the bot admin so that bot gets updates for sure. Telegram is weird.
 
