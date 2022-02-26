@@ -1,4 +1,8 @@
-# Telegraph [@StarkTelegraphBot](https://t.me/StarkTelegraphBot)
+## [Better use Telegraph-Go-Bot](https://github.com/StarkBotsIndustries/Telegraph-Go-Bot)
+
+### This repository is not maintained anymore and is now deprecated. It is replaced with [Telegraph-Go-Bot](https://github.com/StarkBotsIndustries/Telegraph-Go-Bot), which is written in Golang and has much more features.
+
+# Telegraph Bot
 
 > A star ⭐ from you means a lot to us !
 
